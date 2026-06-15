@@ -332,6 +332,25 @@ Potential future enhancements include:
 * Real-World Vehicle Implementation
 
 ---
+# 📚 References
+
+1. Mariusz Bojarski et al., *End to End Learning for Self-Driving Cars*, NVIDIA Research, 2016.
+
+2. Udacity Self-Driving Car Simulator:
+   https://github.com/udacity/self-driving-car-sim
+
+3. TensorFlow Documentation:
+   https://www.tensorflow.org/
+
+4. Keras Documentation:
+   https://keras.io/
+
+5. OpenCV Documentation:
+   https://opencv.org/
+
+6. Behavioral Cloning Project (Udacity Self-Driving Car Engineer Nanodegree).
+
+---
 
 # 👨‍💻 Author
 
